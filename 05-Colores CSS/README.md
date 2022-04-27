@@ -51,3 +51,15 @@ p {
 ```
 - Acceder a la ```demo-02``` para ver un ejemplo sobre lo que comenté anteriromente.
 
+<h3> Color de borde </h3>
+
+3. La propiedad border, sirve para darle un borde a la caja contenedora, hablaremos sobre cajas más adelante.
+
+- Documento css/style.css
+
+```css
+h1 {
+    border: 2px solid #00ffff;
+}
+```
+- Acceder a la ```demo-03``` para ver un ejemplo sobre lo que comenté anteriromente.

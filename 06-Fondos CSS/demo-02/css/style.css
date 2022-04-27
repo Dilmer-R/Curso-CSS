@@ -1,0 +1,9 @@
+h1 {
+    background-image: url(../imagen/imagen.jpg);
+    /* Se accede a la carpeta donde está la imagen.*/
+}
+
+body {
+    background-image: url(https://img3.wallspic.com/previews/6/8/3/5/1/115386/115386-artes_creativas-personaje_de_ficcion-supervillano-criatura_sobrenatural-arte-x750.jpg);
+     /* Se coloca el link de la imagen. */
+}
