@@ -1,0 +1,43 @@
+.dem1 {
+    border-style: dotted;
+}
+
+.dem2 {
+    border-style: dashed;
+}
+
+.dem3 {
+    border-style: solid;
+}
+
+.dem4 {
+    border-style: double;
+}
+
+.dem5 {
+    border-style: groove;
+}
+
+.dem6 {
+    border-style: ridge;
+}
+
+.dem7 {
+    border-style: inset;
+}
+
+.dem8 {
+    border-style: outset;
+}
+
+.dem9 {
+    border-style: none;
+}
+
+.dem10 {
+    border-style: hidden;
+}
+
+.dem11 {
+    border-style: dotted dashed solid double;
+}
