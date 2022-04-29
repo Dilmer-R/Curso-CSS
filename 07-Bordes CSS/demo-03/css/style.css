@@ -1,0 +1,14 @@
+h2.one {
+    border-style: solid;
+    border-color: red;
+}
+  
+h2.two {
+    border-style: solid;
+    border-color: green;
+}
+  
+h2.three {
+    border-style: dotted;
+    border-color: blue;
+}
