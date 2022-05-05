@@ -1,0 +1,9 @@
+h1 {
+  width: 70px;
+  margin: auto;
+  border: 1px dashed red;
+}
+
+/*
+Te permite centrar el elemento horizontalmente dentro de su contenedor
+ */
