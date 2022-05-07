@@ -55,3 +55,13 @@ Esta especifica el ancho del área de contenido del elemento.
 <div style="text-align:center;">
     <img src="https://www.guyom-design.com/blog/cours/css/images/box-model.jpg" height=300px width=500px>
 </div>
+
+Ejemplo:
+
+```css
+#demo-04 {
+  width: 300px;
+  padding: 25px;
+}
+```
+- Ver la ```demo-04```.
