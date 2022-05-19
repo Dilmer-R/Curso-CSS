@@ -2,7 +2,7 @@
 
 CSS es un lenguaje que se usa para dar estilos a un documento HTML.
 
-CSS significa, Cascading Style Sheet. Holas de estilo en cascada.
+CSS significa, Cascading Style Sheet. Hojas de estilo en cascada.
 
 Ejemplo:
 
