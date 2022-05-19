@@ -10,23 +10,23 @@ Este es un curso de CSS desde cero hasta intermendio con ejercicios para resolve
 
 - [00 - Intro CSS](./00-Intro-CSS/)
 
-01 - Sintaxis CSS
+- [01 - Sintaxis CSS](./01-Sintaxis/)
 
-02 - Selectores CSS
+- [02 - Selectores CSS](./02-Selectores/)
 
-03 - Agregar CSS
+- [03 - Agregar CSS](./03-Agregar-CSS/)
 
-04 - Comentarios CSS
+- [04 - Comentarios CSS](./04-Comentarios/)
 
-05 - Colores CSS
+- [05 - Colores CSS](./05-Colores/)
 
-06 - Fondos CSS
+- [06 - Fondos CSS](./06-Fondos/)
 
-07 - Bordes CSS 
+- [07 - Bordes CSS ](./7-Bordes/)
 
-08 - Márgenes CSS
+- [08 - Márgenes CSS](./08-Márgenes/)
 
-09 - Relleno CSS
+- [09 - Relleno CSS](./9-Relleno/)
 
 10 - Altura-Ancho CSS
 
