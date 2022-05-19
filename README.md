@@ -8,7 +8,7 @@ Este es un curso de CSS desde cero hasta intermendio con ejercicios para resolve
 
 * CSS INICIO
 
-00 - Intro CSS
+- [00 - Intro CSS](./00-Intro-CSS/)
 
 01 - Sintaxis CSS
 
